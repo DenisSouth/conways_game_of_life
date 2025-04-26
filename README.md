@@ -4,6 +4,6 @@
 
 ### RUN
        pip install -r requirements.txt
-       python main.py
+       python game_of_life.py
        
 <img src="https://github.com/DenisSouth/conways_game_of_life/blob/main/frame.jpg" width="550">
